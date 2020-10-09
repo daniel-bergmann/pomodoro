@@ -1,0 +1,17 @@
+{
+  "name": "module3-dom-timing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "babel": {
+    "presets": [
+      "es2015"
+    ]
+  },
+  "scripts": {
+    "start": "babel src -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
